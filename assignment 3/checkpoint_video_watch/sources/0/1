@@ -1,0 +1,6 @@
+v1
+{"path":"file:///C:/Users/lucky/OneDrive/Desktop/spark_project/assignment%203/log_stream_data/logs_1.csv","timestamp":1755712221400,"batchId":1}
+{"path":"file:///C:/Users/lucky/OneDrive/Desktop/spark_project/assignment%203/log_stream_data/logs_2.csv","timestamp":1755712245632,"batchId":1}
+{"path":"file:///C:/Users/lucky/OneDrive/Desktop/spark_project/assignment%203/log_stream_data/logs_3.csv","timestamp":1755712260470,"batchId":1}
+{"path":"file:///C:/Users/lucky/OneDrive/Desktop/spark_project/assignment%203/log_stream_data/logs_4.csv","timestamp":1755712278809,"batchId":1}
+{"path":"file:///C:/Users/lucky/OneDrive/Desktop/spark_project/assignment%203/log_stream_data/logs_5.csv","timestamp":1755712302288,"batchId":1}

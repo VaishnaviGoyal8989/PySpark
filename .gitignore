@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Spark output folders
+/output*/
+/checkpoint_user*/
+/parquet_video_watch/
+/output_parquet/
+/output_wordcount/
+/output_charcount/
+/output_filter/
+/output_cooccurence/
+/repeat_customers.parquet
+/top5_locations.parquet
+/total_sales_per_product.parquet
+
+# Python virtual environment
+pyspark-env/
